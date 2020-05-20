@@ -61,6 +61,16 @@ body {
   padding: 5px 10px;
   background-color: lightseagreen;
 }
+
+.edit-button {
+  top: 75px;
+}
+
+.delete-button {
+  top: 125px;
+}
+
+
 .save-button:hover {
   background-color: green;
   color: white;
